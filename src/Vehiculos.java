@@ -9,6 +9,8 @@ public class Vehiculos {
 	int seleccion;
 	Scanner sc = new Scanner(System.in);
 	vehiculo = new String[100][3];
+	
+	System.out.println("Hola mundo");
 	/* Menu principal*/
 		System.out.println("Bienvenido al sistema de clasificacion");
 		System.out.println("¿Que quieres realizar?");
